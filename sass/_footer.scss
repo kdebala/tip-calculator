@@ -1,0 +1,8 @@
+footer {
+    @include center;
+    font-size: 10px;
+
+    a {
+        color: hsl(228, 45%, 44%);
+    }
+}
